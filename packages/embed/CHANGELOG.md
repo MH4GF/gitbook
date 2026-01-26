@@ -1,5 +1,11 @@
 # @gitbook/embed
 
+## 0.2.1
+
+### Patch Changes
+
+- 96e24a1: Fix signed JWT token usage
+
 ## 0.2.0
 
 ### Minor Changes

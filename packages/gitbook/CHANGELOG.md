@@ -1,5 +1,28 @@
 # gitbook
 
+## 0.22.0
+
+### Minor Changes
+
+- f294818: Serve a markdown version of the page when the "Accept" header contains "text/markdown".
+
+### Patch Changes
+
+- 1e53376: Add sidesheet component, use it for TOC and AIChat
+- f7f6f9d: Set <html lang> based on translated language
+- 89de966: Support social links
+- b53cb1d: Align styling of PageLinkItem and PageDocumentItem
+- a5ef44a: Better conditional display of page actions
+- 29e2b22: Fix ordered list item index calculation
+- f6cf62a: Standardise toggle chevrons across the app
+- e172b25: Grow InlineActionButton to take available width on line
+- Updated dependencies [96e24a1]
+- Updated dependencies [4e2d863]
+- Updated dependencies [3ba9e46]
+- Updated dependencies [48ca21e]
+  - @gitbook/embed@0.2.1
+  - @gitbook/react-openapi@1.5.7
+
 ## 0.21.3
 
 ### Patch Changes

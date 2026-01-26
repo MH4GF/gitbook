@@ -1,5 +1,13 @@
 # @gitbook/react-openapi
 
+## 1.5.7
+
+### Patch Changes
+
+- 4e2d863: Fix OpenAPI example not showing
+- 3ba9e46: Improve OpenAPI server URL validation
+- 48ca21e: Add OpenAPI 3.1 nullable array support
+
 ## 1.5.6
 
 ### Patch Changes
